@@ -19,6 +19,15 @@
      "sizeKb": 2
     },
     {
+      "id": "berserk_protocol",
+      "title": "Протокол: Берсерк 💀",
+      "author": "Qwen3.7",
+      "description": "Адаптивный мод: меняет сложность и обращение в зависимости от твоих монет. Высокая скорость, эпичные звуки и риск.",
+      "preview": "https://i.imgur.com/3QZz9Lp.png",
+      "luaUrl": "",
+      "sizeKb": 3
+    },
+    {
       "id": "SpaceMode",
       "title": "SpaceMode",
       "author": "FChick",
