@@ -10,6 +10,15 @@
       "sizeKb": 3
     },
     {
+     "id": "neon_overdrive",
+     "title": "Неоновый Овердрайв 🚀",
+     "author": "Qwen3.7",
+     "description": "Скоростной киберпанк-режим: быстрый бег, плавные прыжки, эпичная музыка и умное приветствие с балансом монет.",
+     "preview": "https://i.imgur.com/8XbJz9L.png",
+     "luaUrl": "",
+     "sizeKb": 2
+    },
+    {
       "id": "SpaceMode",
       "title": "SpaceMode",
       "author": "FChick",
