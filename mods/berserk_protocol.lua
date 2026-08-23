@@ -24,6 +24,6 @@ function init()
     api.show_message(message, 6)
     api.vibrate()
     api.vibrate()
-    api.set_level_music("https://raw.githubusercontent.com/example/sounds/main/dark_synths_loop.mp3")
+    api.set_level_music("https://files.catbox.moe/w2szkv.mp3")
     api.log("Протокол Берсерк: Инициализация завершена успешно.")
 end
