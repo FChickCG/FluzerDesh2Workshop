@@ -1,0 +1,5 @@
+{ "mods": [
+  { "id": "customsounds", "title": "Custom Sounds!", "author": "FChick",
+    "description": "Кастомные звуки игрока", "preview": "https://сайт/prev.png",
+    "luaUrl": "", "sizeKb": 3 }
+] }
