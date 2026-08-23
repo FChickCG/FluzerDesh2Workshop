@@ -24,7 +24,7 @@
       "author": "Qwen3.7",
       "description": "Адаптивный мод: меняет сложность и обращение в зависимости от твоих монет. Высокая скорость, эпичные звуки и риск.",
       "preview": "https://i.imgur.com/3QZz9Lp.png",
-      "luaUrl": "",
+      "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/berserk_protocol.lua",
       "sizeKb": 3
     },
     {
