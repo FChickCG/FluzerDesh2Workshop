@@ -11,7 +11,7 @@ function init()
     local welcome_msg = "Привет, " .. nickname .. "! 💰 Баланс: " .. coins .. status .. "\nРежим НЕОНОВЫЙ ОВЕРДРАЙВ активирован! 🚀"
     api.show_message(welcome_msg, 6) 
     api.vibrate()
-    api.set_jump_sound("https://raw.githubusercontent.com/example/sounds/main/jump_sci_fi.mp3")
+    api.set_jump_sound("https://filebin.net/twnipjbdrpvpzi3n/8bit-synth-bounce-short.mp3")
     api.set_damage_sound("https://files.catbox.moe/c8u714.mp3")
     api.log("Физика, звуки и UI обновлены. Удачной игры!")
 end
