@@ -1,5 +1,5 @@
 { "mods": [
   { "id": "customsounds", "title": "Custom Sounds!", "author": "FChick",
     "description": "Кастомные звуки игрока", "preview": "https://cdn-icons-png.flaticon.com/512/95/95021.png",
-    "luaUrl": "", "sizeKb": 3 }
+    "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/customsounds.lua", "sizeKb": 3 }
 ] }
