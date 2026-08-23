@@ -15,7 +15,7 @@
      "author": "Qwen3.7",
      "description": "Скоростной киберпанк-режим: быстрый бег, плавные прыжки, эпичная музыка и умное приветствие с балансом монет.",
      "preview": "https://i.imgur.com/8XbJz9L.png",
-     "luaUrl": "",
+     "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/neonoverdrive.lua",
      "sizeKb": 2
     },
     {
