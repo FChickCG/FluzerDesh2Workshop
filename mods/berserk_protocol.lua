@@ -19,7 +19,7 @@ function init()
     end
 
     api.set_run_speed(9)
-    api.set_jump_force(14)
+    api.set_jump_force(19)
     api.set_gravity(4.2)
     api.show_message(message, 6)
     api.vibrate()
