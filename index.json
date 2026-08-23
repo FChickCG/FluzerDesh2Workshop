@@ -27,6 +27,24 @@
       "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/berserk_protocol.lua",
       "sizeKb": 3
     },
+        {
+      "id": "blood_parkour",
+      "title": "паркур какой то",
+      "author": "Qwen3.7",
+      "description": "хз",
+      "preview": "https://i.imgur.com/3QZz9Lp.png",
+      "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/blood_parkour.lua",
+      "sizeKb": 50
+    },
+    {
+      "id": "chaos_roulette",
+      "title": "Хаос-Рулетка",
+      "author": "FChick",
+      "description": "Каждые 15 секунд физика игры случайно меняется! Будь готов ко всему.",
+      "preview": "https://example.org/previews/chaos.png",
+      "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/chaos_roulette.lua",
+      "sizeKb": 26
+    },
     {
       "id": "SpaceMode",
       "title": "SpaceMode",
