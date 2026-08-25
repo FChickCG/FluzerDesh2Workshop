@@ -27,7 +27,16 @@
       "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/berserk_protocol.lua",
       "sizeKb": 3
     },
-        {
+    {
+      "id": "prono",
+      "title": "PRONO 🎵",
+      "author": "Vinzzzmoke",
+      "description": "gfhyfynhfiuyyg",
+      "preview": "https://avatars.githubusercontent.com/u/104910868?v=4",
+      "luaUrl": "https://raw.githubusercontent.com/art1kdev/FluzerDesh2Workshop/refs/heads/main/mods/prono.lua",
+      "sizeKb": 1488
+    },
+    {
       "id": "blood_parkour",
       "title": "паркур какой то",
       "author": "Qwen3.7",
