@@ -1,0 +1,15 @@
+{
+  "levels": [
+    {
+      "id": "TestLevel",
+      "title": "TestLevelь",
+      "author": "ФлузерДеш",
+      "description": "TestLevel",
+      "preview": "https://сайт.ру/превью.png",
+      "levelUrl": "",
+      "musicUrl": "",
+      "rewardCoins": 10,
+      "sizeKb": 69
+    }
+  ]
+}
