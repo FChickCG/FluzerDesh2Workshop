@@ -29,12 +29,12 @@
     },
     {
       "id": "prono",
-      "title": "PRONO 🎵",
+      "title": "PRONO",
       "author": "Vinzzzmoke",
-      "description": "gfhyfynhfiuyyg",
+      "description": "Зушс",
       "preview": "https://avatars.githubusercontent.com/u/104910868?v=4",
-      "luaUrl": "https://raw.githubusercontent.com/art1kdev/FluzerDesh2Workshop/refs/heads/main/mods/prono.lua",
-      "sizeKb": 1488
+      "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/prono.lua",
+      "sizeKb": 148
     },
     {
       "id": "blood_parkour",
