@@ -3,7 +3,7 @@
     {
       "id": "customsounds",
       "title": "Custom Sounds!",
-      "author": "FChick",
+      "author": "Флузердеш",
       "description": "Кастомные звуки игрока",
       "preview": "https://cdn-icons-png.flaticon.com/512/95/95021.png",
       "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/customsounds.lua",
@@ -17,6 +17,15 @@
      "preview": "https://i.imgur.com/8XbJz9L.png",
      "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/neonoverdrive.lua",
      "sizeKb": 2
+    },
+    {
+     "id": "drunk",
+     "title": "Пьяный режим",
+     "author": "Флузердеш",
+     "description": "пьяный режим",
+     "preview": "https://i.imgur.com/8XbJz9L.png",
+     "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/drunk.lua",
+     "sizeKb": 26
     },
     {
       "id": "berserk_protocol",
@@ -48,7 +57,7 @@
     {
       "id": "chaos_roulette",
       "title": "Хаос-Рулетка",
-      "author": "FChick",
+      "author": "Флузердеш",
       "description": "Каждые 15 секунд физика игры случайно меняется! Будь готов ко всему.",
       "preview": "https://example.org/previews/chaos.png",
       "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/chaos_roulette.lua",
@@ -57,7 +66,7 @@
     {
       "id": "SpaceMode",
       "title": "SpaceMode",
-      "author": "FChick",
+      "author": "Флузердеш",
       "description": "космос",
       "preview": "https://moya-planeta.ru/upload/images/xl/b6/a4/b6a48cbb08a064efec808d431cdc14d974e58d7e.jpg",
       "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/SpaceMode",
