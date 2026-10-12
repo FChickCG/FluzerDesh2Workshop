@@ -1,3 +1,4 @@
 {
-  "WorkshopClosed": false
+  "WorkshopClosed": false,
+  "WorkshopClosedText": "Мастерская модов временно закрыта"
 }
